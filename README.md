@@ -1,2 +1,1 @@
-# stepik_auto_tests_course
-домашние задания к курсу
+# stepik_section3_module6_step10
